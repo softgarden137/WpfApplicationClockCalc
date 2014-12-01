@@ -1,5 +1,5 @@
-WpfApplcationClockCalc
-======================
+WpfApplicationClockCalc
+=======================
 
 IronPython 2.7 WPF Application
 
