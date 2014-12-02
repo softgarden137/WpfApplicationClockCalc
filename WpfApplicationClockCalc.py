@@ -79,7 +79,7 @@ class Drag(object):
 
 class MyWindow(Window):
     def __init__(self):
-        wpf.LoadComponent(self, 'WpfApplicationClocKCalc.xaml')
+        wpf.LoadComponent(self, 'WpfApplicationClockCalc.xaml')
 
         self.calc = Calc()
         self.rootCanvas.Children.Add (self.calc)
